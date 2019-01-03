@@ -1,6 +1,8 @@
 # MRT Status API
 <br><br>
-This api will sniff out twitter and reddit social media if anyone is complaining the mrt is down. 
+This api will filter out Singapore MRT down time in  twitter and reddit social media if anyone is complaining. Examples of complain in Twitter which this will service will detect :<br>
+Twitter <br>
+"mrt breakdown bugis waited very long" 
 
 <br><br>
 
