@@ -7,7 +7,9 @@ Twitter <br>
 "no train in clementi fault smrt"
 
 <br><br>
+If the post to Redit or Twitter is more than 4 hours ago, the service will ignore it.
 
+<br><br<br>
 ## Method of calling (GET method)
 <br><br>
 Twitter<br>
