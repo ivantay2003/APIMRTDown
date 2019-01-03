@@ -6,7 +6,7 @@ Twitter <br>
 
 <br><br>
 
-## Method of calling
+## Method of calling (GET method)
 <br><br>
 Twitter<br>
 host/api/v1/getMRTTwitter/
